@@ -1,12 +1,12 @@
 # OOLONG-Pairs — Lean Proofs
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20062397.svg)](https://doi.org/10.5281/zenodo.20062397)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20062396.svg)](https://doi.org/10.5281/zenodo.20062396)
 
 Machine-checked Lean 4 proofs for:
 
 **"From Recursive Scaffolding to Admissibility-First Construction: Mechanism, Stability, and Failure-Mode Decomposition on OOLONG-Pairs"**
 
-Paper DOI (concept, always resolves to latest): [10.5281/zenodo.20062397](https://doi.org/10.5281/zenodo.20062397)
+Paper DOI (concept, always resolves to latest): [10.5281/zenodo.20277804](https://doi.org/10.5281/zenodo.20277804)
 
 ---
 
